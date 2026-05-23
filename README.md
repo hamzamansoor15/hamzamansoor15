@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;NestJS+%C2%B7+Next.js+%C2%B7+Hasura+%C2%B7+AWS;AI-enabled+full-stack+builder" alt="intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;NestJS+%C2%B7+Next.js+%C2%B7+%C2%B7+AWS;AI-enabled+full-stack+Developer" alt="intro" />
 </p>
 
 <h1 align="center">Hi, I'm Hamza 👋</h1>
