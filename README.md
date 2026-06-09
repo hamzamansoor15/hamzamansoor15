@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;NestJS+%C2%B7+Next.js+%C2%B7+%C2%B7+AWS;AI-enabled+full-stack+Developer" alt="intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=AI-Enabled+Principal+Software+Engineer;AI-First+Engineering+%C2%B7+Team+Leadership;NestJS+%C2%B7+Next.js+%C2%B7+AWS+%C2%B7+LLM+Systems" alt="intro" />
 </p>
 
 <h1 align="center">Hi, I'm Hamza 👋</h1>
 
 <p align="center">
-  <strong>AI-Enabled Senior Software Engineer</strong> at Code District &nbsp;·&nbsp; 6+ Years Building Full-Stack Products
+  <strong>Principal Software Engineer</strong> at Code District &nbsp;·&nbsp; 6+ Years Building Full-Stack Products
 </p>
 
 <p align="center">
@@ -22,24 +22,25 @@
 
 ### About me
 
-I'm a Senior Software Engineer with 6+ years of experience building and scaling full-stack applications — from early MVPs to cloud-deployed production systems. Currently at **Code District**, I lead a team of four engineers, run client discovery sessions, and architect solutions using NestJS, Next.js, Hasura GraphQL, and AWS.
+I'm an AI-Enabled Principal Software Engineer with 6+ years of experience across full-stack, cloud, and AI-enabled systems. At **Code District**, I led the company-wide shift to an AI-first engineering culture — building the estimation engine, discovery pipeline, and PR review system the whole team now runs on.
 
-I focus on three things: solid database design, clean server-side architecture, and shipping software that scales.
+I operate at the intersection of technical execution and client-facing strategy: I run pre-sales calls, turn vague requirements into architecture proposals, and own production infrastructure across client projects on AWS.
 
-- 🏗️ Leading a team of 4 in an agile environment — defining and prioritizing features end-to-end
-- ☁️ Deploying on AWS: Lambda, Amplify, Cognito, EC2, RDS
-- 🤖 Integrating AI into application workflows as an AI-enabled engineer
+- 🤖 Built an AI estimation engine on Claude/Gemini — input client requirements, output PRD + architecture + tech stack in minutes
+- 🔁 Built a Claude + Bitbucket MCP PR review system; cut senior review time by ~30%
+- 🏗️ Reduced post-discovery call session turnaround from 1–2 days to under an hour using LLM-powered automations
 - 📦 Helped ship an MVP that secured **six-figure funding within 3 months**
-- ⏱️ Saved **250+ hours** of development time via Tableau dashboards and Zapier integrations
+- ⏱️ Saved **250+ hours/year** of manual reporting via Tableau + Zapier pipelines
 
 ---
 
 ### Currently
 
-- 🔭 Leading delivery on a NestJS + Hasura + Next.js platform on AWS
-- 🤖 Embedding LLM / agentic workflows into production app flows
-- 🌱 Going deeper on AWS architecture (post CLF-C02)
-- 💬 Ask me about Hasura permissions, NestJS DI, or AWS Cognito
+- 🚀 Leading AI-first SDLC adoption across Code District (estimation, discovery, dev, review)
+- 🤖 Building and iterating on LLM/MCP-based agentic workflows in production
+- 🔭 Involved in pre-sales: system design docs, architecture proposals, resource estimates
+- 🌱 Going deeper on AWS architecture and agentic system design
+- 💬 Ask me about MCP servers, Claude Code, Hasura permissions, or NestJS DI
 
 ---
 
@@ -47,10 +48,11 @@ I focus on three things: solid database design, clean server-side architecture, 
 
 Most of my recent work is in private client repos — here are anonymized highlights:
 
-- **Funded MVP (Health-tech, 2024)** — Shipped an MVP end-to-end that secured **six-figure seed funding within 3 months**. NestJS · Hasura · Next.js · AWS Amplify + Cognito.
-- **Internal-ops automation** — Designed Tableau dashboards and Zapier pipelines that removed **250+ hours** of manual reporting per year.
-- **Team scale-up** — Grew a 4-engineer pod; introduced PR-review, branch-protection, and CI/CD on GitHub Actions; cut deploy time from ~30 min to <5 min.
-- **AI-enabled features** — Integrated LLM tool-use into a NestJS backend for client onboarding (document parse + structured extraction).
+- **AI Estimation Engine (2025)** — Built on Gemini: feed in client requirements, get back a PRD, feature breakdown, tech stack, and architecture diagram. Used company-wide for pre-sales and scoping.
+- **Agentic PR Review System (2025)** — Claude + Bitbucket MCP webhook pipeline; reviews diffs line-by-line, flags testing gaps, and auto-updates the project context store on merge. Cut senior review time ~30%.
+- **Funded MVP (Health-tech, 2024)** — Shipped end-to-end; secured **six-figure seed funding within 3 months**. NestJS · Hasura · Next.js · AWS Amplify + Cognito.
+- **HIPAA Video Platform (2022)** — Built cloud infra and compliant video platform for clinical psychedelic drug trials. NestJS · React.js · AWS S3 · MediaConvert · RDS.
+- **Internal-ops automation** — Tableau dashboards + Zapier pipelines that removed **250+ hours/year** of manual reporting.
 
 ---
 
@@ -80,11 +82,22 @@ Most of my recent work is in private client repos — here are anonymized highli
 ![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
+**AI & Agentic Systems**
+
+![Claude AI](https://img.shields.io/badge/Claude_AI-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![MCP Servers](https://img.shields.io/badge/MCP_Servers-6366F1?style=flat-square&logoColor=white)
+![LLM Prompt Eng](https://img.shields.io/badge/LLM_Prompt_Eng-10B981?style=flat-square&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+
 ---
 
 ### Certifications
 
-- 🏅 **AWS Certified Cloud Practitioner (CLF-C02)** — Udemy, 2025
+- 🏅 **AWS Certified Cloud Practitioner (CLF-C02)** — Udemy, Oct 2025
+- 🏅 **Atlassian Rovo Fundamentals** — Atlassian, Dec 2025
+- 🏅 **Atlassian Forge Fundamentals** — Atlassian, Jan 2026
+- 🏅 **Claude 101** — Anthropic, May 2026
 - 🏅 **Jira Fundamentals Badge** — Atlassian, 2022
 
 ---
@@ -92,7 +105,7 @@ Most of my recent work is in private client repos — here are anonymized highli
 ### GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamzamansoor15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hamzamansoor15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzamansoor15&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
@@ -105,9 +118,9 @@ Most of my recent work is in private client repos — here are anonymized highli
 ### Career timeline
 
 ```text
-2023 – Present  Senior Software Engineer · Code District       (NestJS, Next.js, Hasura, AWS)
-2021 – 2023     Software Engineer · Code District              (React, Express, Laravel, AWS EC2)
-2020 – 2021     Junior Software Engineer · Code District       (Node.js, Laravel, PostgreSQL)
+2025 – Present  Principal Software Engineer · Code District    (AI-first SDLC, LLM systems, pre-sales)
+2022 – 2025     Senior Software Engineer · Code District       (NestJS, Next.js, Hasura, AWS)
+2020 – 2022     Software Engineer · Code District              (React, Express, Laravel, AWS)
 2019 – 2020     Associate Software Engineer · Programmers Force (Vue.js, KYC/KYB apps)
 2018 – 2019     Web Development Intern · VU Software House     (Laravel, MySQL)
 ```
